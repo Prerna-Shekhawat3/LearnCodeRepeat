@@ -6,4 +6,5 @@
 > 744. Find Smallest Letter Greater Than Target
 > 34. Find First and Last Position of Element in Sorted Array
 > 14. Longest Common Prefix
+> 706. Design HashMap
 
