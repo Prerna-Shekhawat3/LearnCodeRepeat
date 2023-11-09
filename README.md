@@ -7,3 +7,5 @@
 >  ##### 14. Longest Common Prefix  #####
 >  ##### 706. Design HashMap  #####
 
+###  10 Nov 2023 ->Leetcode
+>  ##### 1759. Count Number of Homogenous Substrings
