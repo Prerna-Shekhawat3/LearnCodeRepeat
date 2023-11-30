@@ -9,3 +9,9 @@
 
 ###  10 Nov 2023 ->Leetcode
 >  ##### 1759. Count Number of Homogenous Substrings
+
+### 30 Nov 2023 ->Leetcode
+> ##### 1122. Relative Sort Array
+> ##### 88. Merge Sorted Array
+> ##### 941. Valid Mountain Array
+
